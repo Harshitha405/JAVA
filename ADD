@@ -11,11 +11,15 @@ int b=sc.nextInt();
 int c=a+b;
 int d=a-b;
 int m=a*b;
+
 int r=a%b;
 System.out.println("sum="+c);
 System.out.println("difference="+d);
 System.out.println("multiplication="+m);
 System.out.println("remainder="+r);
+
+System.out.println("div="+div);
+
 }
 }
 
