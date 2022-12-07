@@ -9,7 +9,9 @@ int a=sc.nextInt();
 System.out.println("Enter the number");
 int b=sc.nextInt();
 int c=a+b;
+int d=a-b;
 System.out.println("sum="+c);
+System.out.println("difference="+d);
 }
 }
 
